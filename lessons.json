@@ -305,15 +305,15 @@
             "href" : "pages/css3/09_together.php"
         },
         {
-            "title" : "Code Together",
+            "title" : "Video: Code Together",
             "href" : "https://www.coursera.org/learn/introcss/lecture/YqFkK/02-02-code-together"
         },
         {
-            "title" : "Styling Links and Lists",
+            "title" : "Video: Styling Links and Lists",
             "href" : "https://www.coursera.org/learn/introcss/lecture/VVJf3/02-03-styling-links-and-lists"
         },
         {
-            "title" : "Advanced Selectors",
+            "title" : "Video: Advanced Selectors",
             "href" : "https://www.coursera.org/learn/introcss/lecture/dXukm/02-04-advanced-selectors"
         },
         {
@@ -325,21 +325,41 @@
             "href" : "pages/css3/11_shorthand.php"
         },
         {
-            "title" : "Browser Capabilities",
+            "title" : "Video: Browser Capabilities",
             "href" : "https://www.coursera.org/learn/introcss/lecture/rlS0y/02-05-browser-capabilites"
         },
         {
-            "title" : "Code Together",
+            "title" : "Document: Browsers",
+            "href" : "pages/css3/12_browsers.php"
+        },
+        {
+            "title" : "Document: Code Together",
+            "href" : "pages/css3/13_together2.php"
+        },
+        {
+            "title" : "Video: Code Together",
             "href" : "https://www.coursera.org/learn/introcss/lecture/2GdcH/02-06-code-together"
         },
         {
-            "title" : "Designing for Accessibility",
+            "title" : "Document: Background Images and Opacity",
+            "href" : "pages/css3/14_background.php"
+        },
+        {
+            "title" : "Video: Designing for Accessibility",
             "href" : "https://www.coursera.org/learn/introcss/lecture/sB0Wx/02-07-designing-for-accessibility"
         },
         {
-            "title" : "OPTIONAL: Homework Description",
+            "title" : "Document: Optional - The importance of headings",
+            "href" : "pages/css3/15_headings.php"
+        },
+        {
+            "title" : "Video: OPTIONAL: Homework Description",
             "href" : "https://www.coursera.org/learn/introcss/lecture/VQgU9/02-08-optional-homework-description"
-        }
+        },
+        {
+            "title" : "Document: Homework Two Description",
+            "href" : "pages/css3/16_hw2.php"
+        },
     ],
     "lti" : [
         {
