@@ -383,23 +383,23 @@
     "references" : [
 
         {
-            "title" : "Pseudo Classes and Elements",
+            "title" : "Video: Pseudo Classes and Elements",
             "href" : "https://www.coursera.org/learn/introcss/lecture/jE7LQ/03-01-pseudo-classes-and-elements"
         },
         {
-            "title" : "Transitions",
+            "title" : "Video: Transitions",
             "href" : "https://www.coursera.org/learn/introcss/lecture/JmJhE/03-02-transitions"
         },
         {
-            "title" : "Transforms",
+            "title" : "Video: Transforms",
             "href" : "https://www.coursera.org/learn/introcss/lecture/9rzOu/03-03-transforms"
         },
         {
-            "title" : "Code Together - Transitions",
+            "title" : "Video: Code Together - Transitions",
             "href" : "https://www.coursera.org/learn/introcss/lecture/iJzUX/03-04-code-together-transitions"
         },
         {
-            "title" : "Positioning",
+            "title" : "Video: Positioning",
             "href" : "https://www.coursera.org/learn/introcss/lecture/f1qY2/03-05-positioning"
         }
     ],
@@ -420,31 +420,31 @@
     "references" : [
 
         {
-            "title" : "Styling Tables",
+            "title" : "Video: Styling Tables",
             "href" : "https://www.coursera.org/learn/introcss/lecture/OGCjp/04-01-styling-tables"
         },
         {
-            "title" : "Creating Navigation",
+            "title" : "Video: Creating Navigation",
             "href" : "https://www.coursera.org/learn/introcss/lecture/y5ODR/04-02-creating-navigation-menus"
         },
         {
-            "title" : "Accessible Navigation",
+            "title" : "Video: Accessible Navigation",
             "href" : "https://www.coursera.org/learn/introcss/lecture/WWU0K/04-03-accessible-navigation"
         },
         {
-            "title" : "Creating Navigation Menus 2",
+            "title" : "Video: Creating Navigation Menus 2",
             "href" : "https://www.coursera.org/learn/introcss/lecture/sVTwE/04-04-creating-navigation-menus-2"
         },
         {
-            "title" : "Creating Navigaion Menus 3",
+            "title" : "Video: Creating Navigaion Menus 3",
             "href" : "https://www.coursera.org/learn/introcss/lecture/DCeKu/04-05-creating-navigation-menus-3"
         },
         {
-            "title" : "OPTIONAL: Homework Description",
+            "title" : "Video: OPTIONAL: Homework Description",
             "href" : "https://www.coursera.org/learn/introcss/lecture/SyQ0X/04-06-optional-homework-description"
         },
         {
-            "title" : "Closing",
+            "title" : "Video: Closing",
             "href" : "https://www.coursera.org/learn/introcss/lecture/ivsNj/04-07-conclusion"
         }
     ],
@@ -465,27 +465,27 @@
     "references" : [
 
         {
-            "title" : "Introduction to JavaScript",
+            "title" : "Video: Introduction to JavaScript",
             "href" : "https://www.coursera.org/learn/javascript/lecture/EYX66/introduction"
         },
         {
-            "title" : "DOM Review with Object Oriented Programming",
+            "title" : "Video: DOM Review with Object Oriented Programming",
             "href" : "https://www.coursera.org/learn/javascript/lecture/16Cu2/dom-review-with-object-oriented-programming"
         },
         {
-            "title" : "Output",
+            "title" : "Video: Output",
             "href" : "https://www.coursera.org/learn/javascript/lecture/JM3Bi/output"
         },
         {
-            "title" : "Variables",
+            "title" : "Video: Variables",
             "href" : "https://www.coursera.org/learn/javascript/lecture/fMApf/variables"
         },
         {
-            "title" : "Data Types",
+            "title" : "Video: Data Types",
             "href" : "https://www.coursera.org/learn/javascript/lecture/c7grG/data-types"
         },
         {
-            "title" : "Operators and Expressions",
+            "title" : "Video: Operators and Expressions",
             "href" : "https://www.coursera.org/learn/javascript/lecture/4JNUO/operators-and-expressions"
         }
     ],
@@ -506,27 +506,27 @@
     "references" : [
 
         {
-            "title" : "Functions",
+            "title" : "Video: Functions",
             "href" : "https://www.coursera.org/learn/javascript/lecture/Ltkbl/functions"
         },
         {
-            "title" : "Code Placement",
+            "title" : "Video: Code Placement",
             "href" : "https://www.coursera.org/learn/javascript/lecture/NWlLT/code-placement"
         },
         {
-            "title" : "Folder Structure / Organizing Your Code",
+            "title" : "Video: Folder Structure / Organizing Your Code",
             "href" : "https://www.coursera.org/learn/javascript/lecture/1cV0w/folder-structure-organizing-your-code"
         },
         {
-            "title" : "Events",
+            "title" : "Video: Events",
             "href" : "https://www.coursera.org/learn/javascript/lecture/D7R3j/events"
         },
         {
-            "title" : "Code With Me - Events",
+            "title" : "Video: Code With Me - Events",
             "href" : "https://www.coursera.org/learn/javascript/lecture/Ch7Pn/code-with-me-events"
         },
         {
-            "title" : "'this'",
+            "title" : "Video: 'this'",
             "href" : "https://www.coursera.org/learn/javascript/lecture/2fCqw/this"
         }
     ],
@@ -547,31 +547,31 @@
     "references" : [
 
         {
-            "title" : "JavaScript Arrays",
+            "title" : "Video: JavaScript Arrays",
             "href" : "https://www.coursera.org/learn/javascript/lecture/g8N8v/javascript-arrays"
         },
         {
-            "title" : "Code With Me - Arrays",
+            "title" : "Video: Code With Me - Arrays",
             "href" : "https://www.coursera.org/learn/javascript/lecture/0WIL8/code-with-me-arrays"
         },
         {
-            "title" : "JavaScript Iteration",
+            "title" : "Video: JavaScript Iteration",
             "href" : "https://www.coursera.org/learn/javascript/lecture/ZO1SL/javascript-iteration"
         },
         {
-            "title" : "Flow Of Control",
+            "title" : "Video: Flow Of Control",
             "href" : "https://www.coursera.org/learn/javascript/lecture/28x9J/flow-of-control"
         },
         {
-            "title" : "Code With Me - Combining Loops and Conditionals",
+            "title" : "Video: Code With Me - Combining Loops and Conditionals",
             "href" : "https://www.coursera.org/learn/javascript/lecture/Ir9pR/code-with-me-combining-loops-and-conditionals"
         },
         {
-            "title" : "Advanced Conditionals",
+            "title" : "Video: Advanced Conditionals",
             "href" : "https://www.coursera.org/learn/javascript/lecture/klU5G/advanced-conditionals"
         },
         {
-            "title" : "Common Errors",
+            "title" : "Video: Common Errors",
             "href" : "https://www.coursera.org/learn/javascript/lecture/3Qluo/common-errors"
         }
     ],
@@ -592,19 +592,19 @@
     "references" : [
 
         {
-            "title" : "Simple Forms",
+            "title" : "Video: Simple Forms",
             "href" : "https://www.coursera.org/learn/javascript/lecture/2VjBX/simple-forms"
         },
         {
-            "title" : "Simple Validation",
+            "title" : "Video: Simple Validation",
             "href" : "https://www.coursera.org/learn/javascript/lecture/LhVoE/simple-validation"
         },
         {
-            "title" : "Comparing Two Inputs",
+            "title" : "Video: Comparing Two Inputs",
             "href" : "https://www.coursera.org/learn/javascript/lecture/i4227/comparing-two-inputs"
         },
         {
-            "title" : "Checkboxes and Radio Buttons",
+            "title" : "Video: Checkboxes and Radio Buttons",
             "href" : "https://www.coursera.org/learn/javascript/lecture/KgbIm/checkboxes-and-radio-buttons"
         }
     ],
