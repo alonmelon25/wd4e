@@ -381,7 +381,10 @@
     "description": "Style pseudo-classes and pseudo-elements.",
     "slides": "lectures/Web-01-HTTP.ppt",
     "references" : [
-
+        {
+            "title" : "Document: Resources",
+            "href" : "pages/css3/17_resources3.php"
+        },
         {
             "title" : "Video: Pseudo Classes and Elements",
             "href" : "https://www.coursera.org/learn/introcss/lecture/jE7LQ/03-01-pseudo-classes-and-elements"
@@ -395,12 +398,28 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/9rzOu/03-03-transforms"
         },
         {
+            "title" : "Document: OPTIONAL READINGS - Transitions, Transforms, and Animation",
+            "href" : "pages/css3/18_readings.php"
+        },
+        {
             "title" : "Video: Code Together - Transitions",
             "href" : "https://www.coursera.org/learn/introcss/lecture/iJzUX/03-04-code-together-transitions"
         },
         {
+            "title" : "Document: Positioning",
+            "href" : "pages/css3/19_positioning.php"
+        },
+        {
             "title" : "Video: Positioning",
             "href" : "https://www.coursera.org/learn/introcss/lecture/f1qY2/03-05-positioning"
+        },
+        {
+            "title" : "Document: Why not a Peer Assessment this week?",
+            "href" : "pages/css3/20_peer.php"
+        },
+        {
+            "title" : "Document: Some Fun Links",
+            "href" : "pages/css3/21_links.php"
         }
     ],
     "lti" : [
@@ -418,7 +437,10 @@
     "description": "Using pseudo-classes and pseudo-elements to style a table and utilizing different styling options",
     "slides": "lectures/Web-01-HTTP.ppt",
     "references" : [
-
+        {
+            "title" : "Document: Resources",
+            "href" : "pages/css3/22_resources4.php"
+        },
         {
             "title" : "Video: Styling Tables",
             "href" : "https://www.coursera.org/learn/introcss/lecture/OGCjp/04-01-styling-tables"
@@ -432,6 +454,10 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/WWU0K/04-03-accessible-navigation"
         },
         {
+            "title" : "Document: OPTIONAL: A Change to the Accessibility of Headings",
+            "href" : "pages/css3/23_change.php"
+        },
+        {
             "title" : "Video: Creating Navigation Menus 2",
             "href" : "https://www.coursera.org/learn/introcss/lecture/sVTwE/04-04-creating-navigation-menus-2"
         },
@@ -440,12 +466,32 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/DCeKu/04-05-creating-navigation-menus-3"
         },
         {
+            "title" : "Document: Final Project Description",
+            "href" : "pages/css3/24_project.php"
+        },
+        {
             "title" : "Video: OPTIONAL: Homework Description",
             "href" : "https://www.coursera.org/learn/introcss/lecture/SyQ0X/04-06-optional-homework-description"
         },
         {
             "title" : "Video: Closing",
             "href" : "https://www.coursera.org/learn/introcss/lecture/ivsNj/04-07-conclusion"
+        },
+        {
+            "title" : "Document: Coursera Options",
+            "href" : "pages/css3/25_coursera.php"
+        },
+        {
+            "title" : "Document: CodeAcademy - other badge tutorials",
+            "href" : "pages/css3/26_codeacademy.php"
+        },
+        {
+            "title" : "Document: Meetups",
+            "href" : "pages/css3/27_meetups.php"
+        },
+        {
+            "title" : "Document: Post-course Survey",
+            "href" : "pages/css3/28_survey.php"
         }
     ],
     "lti" : [
