@@ -642,7 +642,7 @@
         {
         "title" : "Peer-graded Assignment",
         "launch" : "mod/peer-grade/",
-        "resource_link_id" : "js_03_quiz"
+        "resource_link_id" : "js_02_quiz"
         },
         {
         "title" : "Quiz: Week 2",
