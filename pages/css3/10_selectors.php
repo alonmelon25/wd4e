@@ -13,6 +13,6 @@ li { padding: 5px; }
   </div>
   <h1>Supplemental Reading on Complex Selectors</h1>
   <p>Learn more about Complex Selectors</p>
-  <p><a href "http://learn.shayhowe.com/advanced-html-css/complex-selectors/">http://learn.shayhowe.com/advanced-html-css/complex-selectors/</a></p>
+  <p><a href="http://learn.shayhowe.com/advanced-html-css/complex-selectors/">http://learn.shayhowe.com/advanced-html-css/complex-selectors/</a></p>
 </body>
 </html>

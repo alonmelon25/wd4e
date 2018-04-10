@@ -21,10 +21,10 @@ li { padding: 5px; }
   </ol>
   <br>
   <h3>Background</h3>
-  <p>In this assignment I have created a three page website about a game called Ultimate, or Ultimate Frisbee. We are going to use this site for all three assignments in this course. You can view the “before” site by visiting <a href "http://intro-webdesign.com/CSS/assignment-1/index.html">http://intro-webdesign.com/CSS/assignment-1/index.html</a> and clicking on the Home, Teams, and History links. You can see the styled pages here: (Obviously I can't give you a link, otherwise you could see my style sheet!!)</p>
-  <li><a href "http://intro-webdesign.com/CSS/assignment-1/index.jpg">http://intro-webdesign.com/CSS/assignment-1/index.jpg</a></li>
-  <li><a href "http://www.intro-webdesign.com/CSS/assignment-1/teams.jpg">http://www.intro-webdesign.com/CSS/assignment-1/teams.jpg</a></li>
-  <li><a href "http://www.intro-webdesign.com/CSS/assignment-1/history.jpg">http://www.intro-webdesign.com/CSS/assignment-1/history.jpg</a></li>
+  <p>In this assignment I have created a three page website about a game called Ultimate, or Ultimate Frisbee. We are going to use this site for all three assignments in this course. You can view the “before” site by visiting <a href="http://intro-webdesign.com/CSS/assignment-1/index.html">http://intro-webdesign.com/CSS/assignment-1/index.html</a> and clicking on the Home, Teams, and History links. You can see the styled pages here: (Obviously I can't give you a link, otherwise you could see my style sheet!!)</p>
+  <li><a href="http://intro-webdesign.com/CSS/assignment-1/index.jpg">http://intro-webdesign.com/CSS/assignment-1/index.jpg</a></li>
+  <li><a href="http://www.intro-webdesign.com/CSS/assignment-1/teams.jpg">http://www.intro-webdesign.com/CSS/assignment-1/teams.jpg</a></li>
+  <li><a href="http://www.intro-webdesign.com/CSS/assignment-1/history.jpg">http://www.intro-webdesign.com/CSS/assignment-1/history.jpg</a></li>
   <br>
   <h3>Getting started</h3>
   <p>You will need to get the code to get started. You can do ONE OF THESE TWO THINGS:</p>
@@ -36,7 +36,7 @@ li { padding: 5px; }
         <li><a href "http://codepen.io/ColleenEMc/pen/ZbavEK">http://codepen.io/ColleenEMc/pen/ZbavEK</a> (teams.html)</li>
       </ul>
     <p>When you peer grade, you can put the CSS code directly in to the CSS section of CodePen to grade the assignment</p>
-    <li>(Advanced): Download the zip file from <a href "http://intro-webdesign.com/CSS/assignment-1.zip">http://intro-webdesign.com/CSS/assignment-1.zip</a> (When you click on this link it will automatically download the a zip file. Mac extracts the files automatically, if you are running Windows you will need to extract them with extra software. When you peer grade, you can put the CSS code directly into the css folder. Make sure to save a copy or your code so you don't lose it!!</li>
+    <li>(Advanced): Download the zip file from <a href="http://intro-webdesign.com/CSS/assignment-1.zip">http://intro-webdesign.com/CSS/assignment-1.zip</a> (When you click on this link it will automatically download the a zip file. Mac extracts the files automatically, if you are running Windows you will need to extract them with extra software. When you peer grade, you can put the CSS code directly into the css folder. Make sure to save a copy or your code so you don't lose it!!</li>
   </ol>
   <br>
   <h3>Steps</h3>

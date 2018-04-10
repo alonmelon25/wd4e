@@ -14,7 +14,7 @@ li { padding: 5px; }
   </div>
   <h1>Post-course Survey</h1>
   <p>We are very interested in strengthening and improving our online learning experiences. We would love to get your feedback on this course to help us identify what we're doing right and what could use improvement. Please participate by taking our short survey at the link below:</p>
-  <p><a href "https://umich.qualtrics.com/jfe/form/SV_bNkFZq3Y7WjAIxD?phoenix_global_user_id=%25GLOBAL_USER_ID%3A2013-may-demographics%25&phoenix_session_user_id=5f211a66e09e195e7746c32084e6b21db2fffbf4&name=Aaron+Cheng&platform_id=coursera_phoenix&course_id=introcss">Go to survey</a></p>
+  <p><a href="https://umich.qualtrics.com/jfe/form/SV_bNkFZq3Y7WjAIxD?phoenix_global_user_id=%25GLOBAL_USER_ID%3A2013-may-demographics%25&phoenix_session_user_id=5f211a66e09e195e7746c32084e6b21db2fffbf4&name=Aaron+Cheng&platform_id=coursera_phoenix&course_id=introcss">Go to survey</a></p>
   <p>Thank you for participating!</p>
 </body>
 </html>

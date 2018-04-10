@@ -15,7 +15,7 @@ li { padding: 5px; }
   <br>
   <h3>Code</h3>
   <p>Here is a link to the CodePen repository for the Week Two code. You can play with the code to test the different concepts.</p>
-  <p><a href "http://codepen.io/collection/DVYVpB/">http://codepen.io/collection/DVYVpB/</a></p>
+  <p><a href="http://codepen.io/collection/DVYVpB/">http://codepen.io/collection/DVYVpB/</a></p>
   <p>Here is a list of the lectures this week that use CodePen, and the name of each file that they use:</p>
   <p>02-01 Box Mode:</p>
   <li>Box Display</li>

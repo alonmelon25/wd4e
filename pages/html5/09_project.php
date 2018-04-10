@@ -13,7 +13,7 @@ li { padding: 5px; }
   </div>
   <h1>Final Project Description</h1>
   <h3>Specification</h3>
-  <p>Your final project is to create a web page that matches the example given here. Your page must match mine exactly other than the title and any parts that have been highlighted in yellow. (If you would like to open this image <a href "http://www.intro-webdesign.com/HTML5/HTML5project.png">here</a>)</p>
+  <p>Your final project is to create a web page that matches the example given here. Your page must match mine exactly other than the title and any parts that have been highlighted in yellow. (If you would like to open this image <a href="http://www.intro-webdesign.com/HTML5/HTML5project.png">here</a>)</p>
   <br>
   <h3>Grading Checklist</h3>
   <li>Doctype</li>
@@ -23,7 +23,7 @@ li { padding: 5px; }
   <li>Section - Favorite food</li>
   <li>Section - Achievements</li>
   <li>Section - More about me</li>
-  <li>Footer - The image from the footer can be found at my website: <a hef "http://www.intro-webdesign.com/images/newlogo.png">http://www.intro-webdesign.com/images/newlogo.png</a></li>
+  <li>Footer - The image from the footer can be found at my website: <a hef="http://www.intro-webdesign.com/images/newlogo.png">http://www.intro-webdesign.com/images/newlogo.png</a></li>
   <br>
   <h3>Autograder</h3>
   <p>I have created an autograded that will check your HTML code for syntactics correctness (as well as spelling). Once you have completed that, you can put the entire file into the grader. Please note that you must get this COMPLETELY correct to receive credit. You will get frustrated. You will put in silly mistakes. But hang in there. And don't forget to reach out for help if you need it.</p>

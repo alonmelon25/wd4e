@@ -30,10 +30,10 @@ li { padding: 5px; }
   <h3>Variations in Image Size</h3>
   <p>Since it is rarely the case the your image is just the perfect size to fit in an element perfectly, there are additional background properties you can play with to get your site looking just the way you want them. These include, background-repeat, background-position, and background-size (to name a few). You can use these properties to position your image.</p>
   <p>If this is something that you want to play with, I am going to direct you to another Shay Howe tutorial, since that way you can use the CodePen to actively change the options and see what happens. This is optional, but potentially very useful.</p>
-  <p><a href "http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/">http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/</a></p>
+  <p><a href="http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/">http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/</a></p>
   <br>
   <h3>Opacity</h3>
   <p>If you are using a background image and it is making it hard to read the text, you can alter the opacity of the image. The opacity is how transparent the image should appear. It is similar to the idea of using rgb() colors and rgba() colors. (255,0,0) is red. (255,0,0, .5) is a more transparent red.</p>
-  <p>Here is a site you may find helpful. <a href "https://css-tricks.com/almanac/properties/o/opacity/">https://css-tricks.com/almanac/properties/o/opacity/</a></p>
+  <p>Here is a site you may find helpful. <a href="https://css-tricks.com/almanac/properties/o/opacity/">https://css-tricks.com/almanac/properties/o/opacity/</a></p>
 </body>
 </html>

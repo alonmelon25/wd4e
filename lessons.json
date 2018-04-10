@@ -509,10 +509,33 @@
     "description": "Why use JavaScript?",
     "slides": "lectures/Web-01-HTTP.ppt",
     "references" : [
-
+        {
+            "title" : "Document: Syllabus",
+            "href" : "pages/javascript/01_syllabus.php"
+        },
+        {
+            "title" : "Document: Help us learn more about you!",
+            "href" : "pages/javascript/02_you.php"
+        },
+        {
+            "title" : "Document: Resources",
+            "href" : "pages/javascript/03_resources.php"
+        },
+        {
+            "title" : "Document: What are these deadlines?",
+            "href" : "pages/javascript/04_deadlines.php"
+        },
         {
             "title" : "Video: Introduction to JavaScript",
             "href" : "https://www.coursera.org/learn/javascript/lecture/EYX66/introduction"
+        },
+        {
+            "title" : "Document: Link to All of the Code for Week 1",
+            "href" : "pages/javascript/05_w1code.php"
+        },
+        {
+            "title" : "Document: The Document Object Model (DOM)",
+            "href" : "pages/javascript/06_dom.php"
         },
         {
             "title" : "Video: DOM Review with Object Oriented Programming",
@@ -521,6 +544,10 @@
         {
             "title" : "Video: Output",
             "href" : "https://www.coursera.org/learn/javascript/lecture/JM3Bi/output"
+        },
+        {
+            "title" : "Document: Trying to Create and Debug Your Own Output",
+            "href" : "pages/javascript/07_output.php"
         },
         {
             "title" : "Video: Variables",
@@ -533,6 +560,18 @@
         {
             "title" : "Video: Operators and Expressions",
             "href" : "https://www.coursera.org/learn/javascript/lecture/4JNUO/operators-and-expressions"
+        },
+        {
+            "title" : "Document: Notice for Auditing Learners: Assignment Submission",
+            "href" : "pages/javascript/08_audit.php"
+        },
+        {
+            "title" : "Document: Optional Materials",
+            "href" : "pages/javascript/09_optional.php"
+        },
+        {
+            "title" : "Document: The History of Debugging",
+            "href" : "pages/javascript/10_debug.php"
         }
     ],
     "lti" : [
@@ -550,7 +589,14 @@
     "description": "JavaScript Mouse Events and Touch Events.",
     "slides": "lectures/Web-01-HTTP.ppt",
     "references" : [
-
+        {
+            "title" : "Document: Link to All of the Code for Week 2",
+            "href" : "pages/javascript/11_w2code.php"
+        },
+        {
+            "title" : "Document: Functions",
+            "href" : "pages/javascript/12_functions.php"
+        },
         {
             "title" : "Video: Functions",
             "href" : "https://www.coursera.org/learn/javascript/lecture/Ltkbl/functions"
@@ -558,6 +604,10 @@
         {
             "title" : "Video: Code Placement",
             "href" : "https://www.coursera.org/learn/javascript/lecture/NWlLT/code-placement"
+        },
+        {
+            "title" : "Document: Organizing Your Code",
+            "href" : "pages/javascript/13_placement.php"
         },
         {
             "title" : "Video: Folder Structure / Organizing Your Code",
@@ -568,19 +618,36 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/D7R3j/events"
         },
         {
+            "title" : "Document: Mastering Events and Functions",
+            "href" : "pages/javascript/14_events.php"
+        },
+        {
             "title" : "Video: Code With Me - Events",
             "href" : "https://www.coursera.org/learn/javascript/lecture/Ch7Pn/code-with-me-events"
         },
         {
+            "title" : "Document: Just a little note before the next video",
+            "href" : "pages/javascript/15_note.php"
+        },
+        {
             "title" : "Video: 'this'",
             "href" : "https://www.coursera.org/learn/javascript/lecture/2fCqw/this"
+        },
+        {
+            "title" : "Homework Time!!",
+            "href" : "pages/javascript/16_homework.php"
         }
     ],
     "lti" : [
         {
+        "title" : "Peer-graded Assignment",
+        "launch" : "mod/peer-grade/",
+        "resource_link_id" : "js_03_quiz"
+        },
+        {
         "title" : "Quiz: Week 2",
         "launch" : "mod/gift/",
-        "resource_link_id" : "js_02_quiz"
+        "resource_link_id" : "js_03_quiz"
         }
     ]
 },
@@ -591,7 +658,18 @@
     "description": "Arrays allow you to represent groups of related information. Looping provides efficiency and flexibility to your programs.",
     "slides": "lectures/Web-01-HTTP.ppt",
     "references" : [
-
+        {
+            "title" : "Document: Link to All of the Code for Week 3",
+            "href" : "pages/javascript/17_w3code.php"
+        },
+        {
+            "title" : "Document: A JavaScript Cheat Sheet",
+            "href" : "pages/javascript/18_sheet.php"
+        },
+        {
+            "title" : "Document: Arrays",
+            "href" : "pages/javascript/19_arrays.php"
+        },
         {
             "title" : "Video: JavaScript Arrays",
             "href" : "https://www.coursera.org/learn/javascript/lecture/g8N8v/javascript-arrays"
@@ -599,6 +677,10 @@
         {
             "title" : "Video: Code With Me - Arrays",
             "href" : "https://www.coursera.org/learn/javascript/lecture/0WIL8/code-with-me-arrays"
+        },
+        {
+            "title" : "Document: Advanced Coding Techniques",
+            "href" : "pages/javascript/20_techniques.php"
         },
         {
             "title" : "Video: JavaScript Iteration",
@@ -625,7 +707,7 @@
         {
         "title" : "Quiz: JavaScript Review",
         "launch" : "mod/gift/",
-        "resource_link_id" : "js_03_quiz"
+        "resource_link_id" : "js_04_quiz"
         }
     ]
 },
@@ -636,7 +718,14 @@
     "description": "Creating and validating input entered into an HTML5 form.",
     "slides": "lectures/Web-01-HTTP.ppt",
     "references" : [
-
+        {
+            "title" : "Document: Link to All of the Code for Week 4",
+            "href" : "pages/javascript/21_w4code.php"
+        },
+        {
+            "title" : "Document: Introduction to Forms",
+            "href" : "pages/javascript/22_forms.php"
+        },
         {
             "title" : "Video: Simple Forms",
             "href" : "https://www.coursera.org/learn/javascript/lecture/2VjBX/simple-forms"
@@ -646,19 +735,39 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/LhVoE/simple-validation"
         },
         {
+            "title" : "Document: Cool Stuff - Friend of Foe?",
+            "href" : "pages/javascript/23_cool.php"
+        },
+        {
             "title" : "Video: Comparing Two Inputs",
             "href" : "https://www.coursera.org/learn/javascript/lecture/i4227/comparing-two-inputs"
         },
         {
             "title" : "Video: Checkboxes and Radio Buttons",
             "href" : "https://www.coursera.org/learn/javascript/lecture/KgbIm/checkboxes-and-radio-buttons"
+        },
+        {
+            "title" : "Document: Cool Stuff - Friend of Foe?",
+            "href" : "pages/javascript/24_site.php"
+        },
+        {
+            "title" : "Document: More Code Examples",
+            "href" : "pages/javascript/25_more.php"
+        },
+        {
+            "title" : "Document: Introduction to JQuery",
+            "href" : "pages/javascript/26_jquery.php"
+        },
+        {
+            "title" : "Document: Post-course Survey",
+            "href" : "pages/javascript/27_survey.php"
         }
     ],
     "lti" : [
         {
         "title" : "Peer-graded Assignment",
         "launch" : "mod/peer-grade/",
-        "resource_link_id" : "js_04_quiz"
+        "resource_link_id" : "js_05_quiz"
         }
     ]
 }

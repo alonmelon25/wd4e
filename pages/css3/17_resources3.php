@@ -15,7 +15,7 @@ li { padding: 5px; }
   <h1>Resources</h1>
   <h3>Code</h3>
   <p>Here is a link to the CodePen repository for the Week Three code. You can play with the code to test the different concepts.</p>
-  <p><a href "http://codepen.io/collection/XGowWM/">http://codepen.io/collection/XGowWM/</a></p>
+  <p><a href="http://codepen.io/collection/XGowWM/">http://codepen.io/collection/XGowWM/</a></p>
   <p>Here is a list of the lectures this week that use CodePen, and the name of each file that they use:</p>
   <p>03-02 Transitions</p>
   <li>Transitions - Using psuedo classes</li>

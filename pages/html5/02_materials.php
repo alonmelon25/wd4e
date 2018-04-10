@@ -12,7 +12,7 @@ li { padding: 5px; }
   <b style = "float:right">www.wd4e.com</b>
   </div>
   <h1>Required Materials</h1>
-  <p><b>Textbook</b>: <a href "http://textbooks.opensuny.org/the-missing-link-an-introduction-to-web-development-and-programming/">The Missing Link: An Introduction to Web Development and Programming</a> by Michael Mendez from <a href "www.opensuny.org">www.opensuny.org</a>. The book is available for free (CC-BY-NC) in PDF, EPUB and Apple iBooks forms. It is also available in print on Amazon. I do my best to direct you to chapters that most closely follow what I will be covering in each video lecture.</p>
+  <p><b>Textbook</b>: <a href="http://textbooks.opensuny.org/the-missing-link-an-introduction-to-web-development-and-programming/">The Missing Link: An Introduction to Web Development and Programming</a> by Michael Mendez from <a href "www.opensuny.org">www.opensuny.org</a>. The book is available for free (CC-BY-NC) in PDF, EPUB and Apple iBooks forms. It is also available in print on Amazon. I do my best to direct you to chapters that most closely follow what I will be covering in each video lecture.</p>
   <br>
   <p>Week One -- <i>Read before quiz</i></p>
   <li>Chapters 1, 4, 7, and 8</li>

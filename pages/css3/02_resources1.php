@@ -12,11 +12,11 @@ li { padding: 5px; }
   <b style = "float:right">www.wd4e.com</b>
   </div>
   <h1><b>Software</b></h1>
-  <p>The <b>preferred</b> way to code in this class is editor software (Notepad++, TextWrangler, Sublime, etc). If you do not have the ability to access or install this type of software, there is an online editor at: <a href "http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro">http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro</a>. You can also use CodePen (there is a link below). It is important that you find a way that you can enter code and still test your work.</p>
+  <p>The <b>preferred</b> way to code in this class is editor software (Notepad++, TextWrangler, Sublime, etc). If you do not have the ability to access or install this type of software, there is an online editor at: <a href="http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro">http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro</a>. You can also use CodePen (there is a link below). It is important that you find a way that you can enter code and still test your work.</p>
   <br>
   <h1><b>Code</b></h1>
   <p>All of the code I cover is available from a CodePen repository. I hope you can play with the code to test the different concepts we will cover. Here is a link to the CodePen repository for the Week One code.</p>
-  <p><a href "http://codepen.io/collection/noEQed/">http://codepen.io/collection/noEQed/</a></p>
+  <p><a href="http://codepen.io/collection/noEQed/">http://codepen.io/collection/noEQed/</a></p>
   <p>Here is a list of the lectures this week that use CodePen, and the name of each file that they use:</p>
   <p>01-02 Cascading Style Sheet:</p>
   <li>styleAttribute.html</li>

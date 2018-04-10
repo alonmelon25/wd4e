@@ -14,10 +14,10 @@ li { padding: 5px; }
   </div>
   <h1>Optional Readings</h1>
   <ol>
-    <li><a href "https://www.w3schools.com/css/css3_transitions.asp">CSS3 Transitions</a> - from W3 Schools</li>
-    <li><a href "https://learn.shayhowe.com/advanced-html-css/transitions-animations/">Transitions and Animations</a> - Shay Howe</li>
-    <li><a href "https://www.the-art-of-web.com/css/css-animation/">CSS: Animation Using CSS Transforms</a></li>
-    <li><a href "https://www.creativebloq.com/css3/animation-with-css3-712437">22 stunning examples of CSS3 animation</a></li>
+    <li><a href="https://www.w3schools.com/css/css3_transitions.asp">CSS3 Transitions</a> - from W3 Schools</li>
+    <li><a href="https://learn.shayhowe.com/advanced-html-css/transitions-animations/">Transitions and Animations</a> - Shay Howe</li>
+    <li><a href="https://www.the-art-of-web.com/css/css-animation/">CSS: Animation Using CSS Transforms</a></li>
+    <li><a href="https://www.creativebloq.com/css3/animation-with-css3-712437">22 stunning examples of CSS3 animation</a></li>
   </ol>
 </body>
 </html>

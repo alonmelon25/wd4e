@@ -21,7 +21,7 @@ li { padding: 5px; }
   <br>
   <h3>Background</h3>
   <p>I assume that you have finished all of the Week Three lecture videos, and you may want to watch Week Four as you complete this assignment. This assignment builds on Assignments One and Two. Our final step is to style the table on the teams page. Here is a link to the teams page after the final project.</p>
-  <p><a href "http://www.intro-webdesign.com/CSS/final/teams.jpg">http://www.intro-webdesign.com/CSS/final/teams.jpg</a></p>
+  <p><a href="http://www.intro-webdesign.com/CSS/final/teams.jpg">http://www.intro-webdesign.com/CSS/final/teams.jpg</a></p>
   <br>
   <h3>Getting Started</h3>
   <p>You will use the same code as you used for Assignment Two. I would recommend that you save copy of your style sheet for backup. The html is all still the same.</p>
