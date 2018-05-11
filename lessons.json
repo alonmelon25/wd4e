@@ -20,7 +20,7 @@
     "anchor": "html_basics",
     "icon" : "fa-clone",
     "description": "Uncover the 'mystery' behind the Internet.",
-    "slides": "lectures/Web-01-HTTP.ppt",
+    "slides": "lectures/w1_html5.zip",
     "references" : [
         {
             "title" : "Document: Syllabus",
