@@ -20,7 +20,7 @@
     "anchor": "html_basics",
     "icon" : "fa-clone",
     "description": "Uncover the 'mystery' behind the Internet.",
-    "slides": "lectures/w1_html5.zip",
+    "slides": "lectures/01_html5.zip",
     "references" : [
         {
             "title" : "Document: Syllabus",
@@ -84,7 +84,7 @@
     "anchor": "tags",
     "icon" : "fa-clone",
     "description": "Master the basic idea of using tags and attributes you will know everything you need to use any HTML5 tag.",
-    "slides": "lectures/Web-01-HTTP.ppt",
+    "slides": "lectures/02_html5.zip",
     "references" : [
         {
             "title" : "Video: The Document Object Model [DOM]",
@@ -136,7 +136,7 @@
     "anchor": "host-validate",
     "icon" : "fa-clone",
     "description": "The important but often overlooked concepts of validation and accessibility.",
-    "slides": "lectures/Web-01-HTTP.ppt",
+    "slides": "lectures/03_html5.zip",
     "references" : [
         {
             "title" : "Video: Accessibility",
@@ -209,7 +209,7 @@
     "anchor": "simple_styling",
     "icon" : "fa-clone",
     "description": "Style pages by taking advantage of the power of CSS3.",
-    "slides": "lectures/Web-01-HTTP.ppt",
+    "slides": "lectures/01_css3.zip",
     "references" : [
         {
             "title" : "Document: Syllabus",
@@ -240,7 +240,7 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/BssvJ/01-03-colors"
         },
         {
-            "title" : "Video:Styling Your Text",
+            "title" : "Video: Styling Your Text",
             "href" : "https://www.coursera.org/learn/introcss/lecture/kxPBK/01-04-styling-your-text"
         },
         {
@@ -252,11 +252,11 @@
             "href" : "https://www.coursera.org/learn/introcss/lecture/9Ps4p/01-05-code-together"
         },
         {
-            "title" : "Video:Display and Visibility Part 1",
+            "title" : "Video: Display and Visibility Part 1",
             "href" : "https://www.coursera.org/learn/introcss/lecture/2XGcn/01-06a-display-and-visibility-part-1"
         },
         {
-            "title" : "Video:Display and Visibility Part 2",
+            "title" : "Video: Display and Visibility Part 2",
             "href" : "https://www.coursera.org/learn/introcss/lecture/vXFBt/01-06b-display-and-visibility-part-2"
         },
         {
@@ -290,7 +290,7 @@
     "anchor": "advanced_styling",
     "icon" : "fa-clone",
     "description": "Box Model, background images, opacity, float, columns, visibility, and designing for different browsers.",
-    "slides": "lectures/Web-01-HTTP.ppt",
+    "slides": "lectures/02_css3.zip",
     "references" : [
         {
             "title" : "Document: Resources",
@@ -379,7 +379,7 @@
     "anchor": "psuedo",
     "icon" : "fa-clone",
     "description": "Style pseudo-classes and pseudo-elements.",
-    "slides": "lectures/Web-01-HTTP.ppt",
+    "slides": "lectures/03_css3.zip",
     "references" : [
         {
             "title" : "Document: Resources",
@@ -435,7 +435,7 @@
     "anchor": "together",
     "icon" : "fa-clone",
     "description": "Using pseudo-classes and pseudo-elements to style a table and utilizing different styling options",
-    "slides": "lectures/Web-01-HTTP.ppt",
+    "slides": "lectures/04_css3.zip",
     "references" : [
         {
             "title" : "Document: Resources",
@@ -507,7 +507,7 @@
     "anchor": "intro_javascript",
     "icon" : "fa-clone",
     "description": "Why use JavaScript?",
-    "slides": "lectures/Web-01-HTTP.ppt",
+    "slides": "lectures/01_js.zip",
     "references" : [
         {
             "title" : "Document: Syllabus",
@@ -587,7 +587,7 @@
     "anchor": "react",
     "icon" : "fa-clone",
     "description": "JavaScript Mouse Events and Touch Events.",
-    "slides": "lectures/Web-01-HTTP.ppt",
+    "slides": "lectures/02_js.zip",
     "references" : [
         {
             "title" : "Document: Link to All of the Code for Week 2",
@@ -656,7 +656,7 @@
     "anchor": "array-loop",
     "icon" : "fa-clone",
     "description": "Arrays allow you to represent groups of related information. Looping provides efficiency and flexibility to your programs.",
-    "slides": "lectures/Web-01-HTTP.ppt",
+    "slides": "lectures/03_js.zip",
     "references" : [
         {
             "title" : "Document: Link to All of the Code for Week 3",
@@ -716,7 +716,7 @@
     "anchor": "validate_form",
     "icon" : "fa-clone",
     "description": "Creating and validating input entered into an HTML5 form.",
-    "slides": "lectures/Web-01-HTTP.ppt",
+    "slides": "lectures/04_js.zip",
     "references" : [
         {
             "title" : "Document: Link to All of the Code for Week 4",
