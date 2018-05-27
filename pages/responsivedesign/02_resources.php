@@ -22,6 +22,6 @@ li { padding: 5px; }
   <p>The best way to get help is to utilize the discussion boards. I know that this may be new to many of you so let me explain how the discussion boards work. We always have one "friendly" where are you from/introduce yourself board where people tend to be social. Other than that we encourage people to use the discussion section that goes with the week you are on. Notice that I said "use" not "post." We really want to encourage you to read before you post. You will often find your question already there. If you don't find your question, make sure to post. There are no "stupid" questions. Ever. (Sometimes you may just have found a mistake on my part that I will need to fix.)</p>
   <br>
   <h3>Course Slides</h3>
-  <p><a href="/lectures/JavaScript.zip">JavaScript.zip</a></p>
+  <p><a href="/lectures/ResponsiveDesign.zip">ResponsiveDesign.zip</a></p>
 </body>
 </html>

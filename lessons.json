@@ -747,7 +747,7 @@
             "href" : "https://www.coursera.org/learn/javascript/lecture/KgbIm/checkboxes-and-radio-buttons"
         },
         {
-            "title" : "Document: Cool Stuff - Friend of Foe?",
+            "title" : "Document: Using Forms on Your Site",
             "href" : "pages/javascript/24_site.php"
         },
         {
@@ -768,6 +768,261 @@
         "title" : "Peer-graded Assignment",
         "launch" : "mod/peer-grade/",
         "resource_link_id" : "js_05_quiz"
+        }
+    ]
+},
+{
+    "title": "Style with Responsive Design",
+    "anchor": "responsive_design",
+    "icon" : "fa-clone",
+    "description": "The theories behind the 'mobile-first paradigm'.",
+    "slides": "lectures/01_rd.zip",
+    "references" : [
+        {
+            "title" : "Document: Syllabus",
+            "href" : "pages/responsivedesign/01_syllabus.php"
+        },
+        {
+            "title" : "Document: Resources",
+            "href" : "pages/responsivedesign/02_resources.php"
+        },
+        {
+            "title" : "Document: Frequently Asked Questions (FAQ)",
+            "href" : "pages/responsivedesign/03_faq"
+        },
+        {
+            "title" : "Video: Introduction to Responsive Design",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/txDkK/introduction-to-responsive-design"
+        },
+        {
+            "title" : "Document: Help us learn more about you!",
+            "href" : "pages/responsivedesign/04_you.php"
+        },
+        {
+            "title" : "Video: What is Responsive Design?",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/ps9ld/what-is-responsive-design"
+        },
+        {
+            "title" : "Video: Testing Existing Sites",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/M1D8S/testing-existing-sites"
+        },
+        {
+            "title" : "Video: Benefits of Responsive Design",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/4DDTg/benefits-of-responsive-design"
+        },
+        {
+            "title" : "Document: Fluid Measurements Background Readings",
+            "href" : "pages/responsivedesign/05_readings.php"
+        },
+        {
+            "title" : "Video: Fluid Measurements",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/stZ5k/fluid-measurements"
+        },
+        {
+            "title" : "Video: Code With Me - Fluid Measurements",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/6MUTk/code-with-me-fluid-measurements"
+        },
+        {
+            "title" : "Document: Notice for Auditing Learners - Assignment Submission",
+            "href" : "pages/responsivedesign/06_auditing.php"
+        },
+        {
+            "title" : "Document: Pixel to Em Conversion Tool",
+            "href" : "pages/responsivedesign/07_pixel.php"
+        },
+        {
+            "title" : "Document: Dynamically Change the Size of Font with Sliders",
+            "href" : "pages/responsivedesign/08_font.php"
+        },
+        {
+            "title" : "Document: OPTIONAL - CSS Definitions of Relative and Absolute",
+            "href" : "pages/responsivedesign/09_definitions.php"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Quiz: Basic Concepts in Responsive Design Approaches",
+        "launch" : "mod/peer-grade/",
+        "resource_link_id" : "rd_01_quiz"
+        }
+    ]
+},
+{
+    "title": "Basic Concepts of Media Queries",
+    "anchor": "media_queries",
+    "icon" : "fa-clone",
+    "description": "Putting theories into practice using media queries in CSS.",
+    "slides": "lectures/02_rd.zip",
+    "references" : [
+        {
+            "title" : "Video: Media Queries",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/b2Gan/media-queries"
+        },
+        {
+            "title" : "Video: Code With Me - Fluid Measurements and Media Queries",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/dQndg/code-with-me-fluid-measurements-and-media-queries"
+        },
+        {
+            "title" : "Video: Wire Frames",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/CuYAt/wire-frames"
+        },
+        {
+            "title" : "Video: Breakpoints",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/89Aoz/breakpoints"
+        },
+        {
+            "title" : "Video: Media Queries Part 2",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/TK4CK/media-queries-part-two"
+        },
+        {
+            "title" : "Video: What is Responsive Design?",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/ps9ld/what-is-responsive-design"
+        },
+        {
+            "title" : "Video: Code With Me - Responsive Navigation",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/iHbe9/code-with-me-responsive-navigation"
+        },
+        {
+            "title" : "Document: OPTIONAL - Good Examples of Responsive Design",
+            "href" : "pages/responsivedesign/10_examples.php"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Peer-graded Assignment",
+        "launch" : "mod/peer-grade/",
+        "resource_link_id" : "rd_02_quiz"
+        },
+        {
+        "title" : "Quiz: Media Queries and Breakpoints",
+        "launch" : "mod/peer-grade/",
+        "resource_link_id" : "rd_03_quiz"
+        }
+    ]
+},
+{
+    "title": "Using Existing Frameworks",
+    "anchor": "frameworks",
+    "icon" : "fa-clone",
+    "description": "Working with Bootstrap.",
+    "slides": "lectures/03_rd.zip",
+    "references" : [
+        {
+            "title" : "Video: Frameworks",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/9Osia/frameworks"
+        },
+        {
+            "title" : "Video: Introduction to Twitter Bootstrap 3",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/y9itO/introduction-to-twitter-bootstrap-3"
+        },
+        {
+            "title" : "Video: Bootstrap Breakpoints",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/OuZp6/bootstrap-breakpoints"
+        },
+        {
+            "title" : "Video: Getting Started with Twitter Bootstrap",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/wZGGp/getting-started-with-twitter-bootstrap"
+        },
+        {
+            "title" : "Video: Bootstrap 3 Grid System",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/yHMDd/bootstrap-grid-system"
+        },
+        {
+            "title" : "Video: Code With Me - Grid Example",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/fd50Q/code-with-me-grid-example"
+        },
+        {
+            "title" : "Video: Bootstrap Navigation",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/opt7D/bootstrap-navigation"
+        },
+        {
+            "title" : "Document: OPTIONAL - Demystifying Bootstrap",
+            "href" : "pages/responsivedesign/11_demystifying.php"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Peer-graded Assignment",
+        "launch" : "mod/peer-grade/",
+        "resource_link_id" : "rd_04_quiz"
+        },
+        {
+        "title" : "Quiz: Bootstrap",
+        "launch" : "mod/peer-grade/",
+        "resource_link_id" : "rd_05_quiz"
+        }
+    ]
+},
+{
+    "title": "Experiment!",
+    "anchor": "experiment",
+    "icon" : "fa-clone",
+    "description": "Touching base on advanced framework options in order to solve little issues that pop up when moving from theory to practice.",
+    "slides": "lectures/04_rd.zip",
+    "references" : [
+        {
+            "title" : "Video: Responsive Images",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/17cwr/responsive-images"
+        },
+        {
+            "title" : "Video: Bootstrap Tables",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/DDtg7/bootstrap-tables"
+        },
+        {
+            "title" : "Video: Code With Me - Advanced Navigaion",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/bd0U9/code-with-me-advanced-navigation"
+        },
+        {
+            "title" : "Video: What Are Templates?",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/bnAQy/what-are-templates"
+        },
+        {
+            "title" : "Video: Optional Interview - Mike Wojan",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/wwdCV/optional-interview-m-w"
+        },
+        {
+            "title" : "Video: Optional Interview - Heidi Wong",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/KyzO5/optional-interview-h-w"
+        },
+        {
+            "title" : "Video: Optional Interview - Heather Newman",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/CqhsW/optional-interview-with-h-n"
+        },
+        {
+            "title" : "Video: Bootstrap 4",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/lj9fx/bootstrap-4"
+        },
+        {
+            "title" : "Video: Conclusion",
+            "href" : "https://www.coursera.org/learn/responsivedesign/lecture/McQjT/conclusion"
+        },
+        {
+            "title" : "Document: OPTIONAL - The Evolution of the Airbnb Front-end Development",
+            "href" : "pages/responsivedesign/12_airbnb.php"
+        },
+        {
+            "title" : "Document: OPTIONAL - Debugging Your Style",
+            "href" : "pages/responsivedesign/13_firebug.php"
+        },
+        {
+            "title" : "Document: OPTIONAL - More Resources for Learning to Debug/Develop",
+            "href" : "pages/responsivedesign/14_develop.php"
+        },
+        {
+            "title" : "Document: Post-course Survey",
+            "href" : "pages/responsivedesign/15_survey.php"
+        }
+    ],
+    "lti" : [
+        {
+        "title" : "Quiz: Responsive Design Final Assessment",
+        "launch" : "mod/peer-grade/",
+        "resource_link_id" : "rd_06_quiz"
+        },
+        {
+        "title" : "Peer-graded Assignment",
+        "launch" : "mod/peer-grade/",
+        "resource_link_id" : "rd_07_quiz"
         }
     ]
 }
