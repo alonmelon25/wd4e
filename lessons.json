@@ -434,7 +434,7 @@
     "title": "Putting It All Together",
     "anchor": "together",
     "icon" : "fa-clone",
-    "description": "Using pseudo-classes and pseudo-elements to style a table and utilizing different styling options",
+    "description": "Using pseudo-classes and pseudo-elements to style a table and utilizing different styling options.",
     "slides": "lectures/04_css3.zip",
     "references" : [
         {
@@ -953,7 +953,7 @@
     "title": "Experiment!",
     "anchor": "experiment",
     "icon" : "fa-clone",
-    "description": "Touching base on advanced framework options in order to solve little issues that pop up when moving from theory to practice.",
+    "description": "Touching base on advanced framework options in order to solve issues that pop up when moving from theory to practice.",
     "slides": "lectures/04_rd.zip",
     "references" : [
         {
