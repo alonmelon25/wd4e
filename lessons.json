@@ -27,6 +27,10 @@
             "href" : "pages/html5/01_syllabus.php"
         },
         {
+            "title" : "Video: Introduction to HTML5",
+            "href" : "https://www.coursera.org/learn/html/lecture/Ilm91/01-01-welcome-to-introduction-to-html5"
+        },
+        {
             "title" : "Document: Required Materials",
             "href" : "pages/html5/02_materials.php"
         },
@@ -35,24 +39,16 @@
             "href" : "pages/html5/03_optional.php"
         },
         {
-            "title" : "Document: Help us learn more about you!",
-            "href" : "pages/html5/04_you.php"
-        },
-        {
-            "title" : "Video: Introduction to HTML5",
-            "href" : "https://www.coursera.org/learn/html/lecture/Ilm91/01-01-welcome-to-introduction-to-html5"
+            "title" : "Video: The Evolution of HTML5",
+            "href" : "https://www.coursera.org/learn/html/lecture/Lhlau/01-02-the-evolution-of-html"
         },
         {
             "title" : "Document: OPTIONAL - The Browser Wars",
-            "href" : "pages/html5/05_wars.php"
+            "href" : "pages/html5/04_wars.php"
         },
         {
             "title" : "Document: OPTIONAL - The Origins of MOSAIC",
-            "href" : "pages/html5/06_mosaic.php"
-        },
-        {
-            "title" : "Video: The Evolution of HTML5",
-            "href" : "https://www.coursera.org/learn/html/lecture/Lhlau/01-02-the-evolution-of-html"
+            "href" : "pages/html5/05_mosaic.php"
         },
         {
             "title" : "Video: How it Works: The 'Magic' of Page Requests",
@@ -60,11 +56,15 @@
         },
         {
             "title" : "Document: Browsers",
-            "href" : "pages/html5/07_browsers.php"
+            "href" : "pages/html5/06_browsers.php"
         },
         {
             "title" : "Video: Looking at Your Browsing Options",
             "href" : "https://www.coursera.org/learn/html/lecture/rPIuh/01-04-looking-at-your-browser-options"
+        },
+        {
+            "title" : "Document: OPTIONAL - How Well Does Your Browser Support HTML5?",
+            "href" : "pages/html5/07_support.php"
         },
         {
             "title" : "Video: Editors: How to use an editor to create an HTML file",
@@ -87,12 +87,16 @@
     "slides": "lectures/02_html5.zip",
     "references" : [
         {
-            "title" : "Video: The Document Object Model [DOM]",
-            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+            "title" : "Document: Readings",
+            "href" : "pages/html5/08_w2readings.php"
         },
         {
             "title" : "Video: HTML5 Tags and Syntax",
             "href" : "https://www.coursera.org/learn/html/lecture/m1BQg/02-02-html5-tags-and-syntax"
+        },
+        {
+            "title" : "Document: Cheatsheets",
+            "href" : "pages/html5/09_cheatsheet.php"
         },
         {
             "title" : "Video: Semantic Tags",
@@ -105,6 +109,10 @@
         {
             "title" : "Video: Images",
             "href" : "https://www.coursera.org/learn/html/lecture/NxaOr/02-05-images"
+        },
+        {
+            "title" : "Document: Alternative Text",
+            "href" : "pages/html5/11_alternative.php"
         },
         {
             "title" : "Video: Hyperlinks",
@@ -143,12 +151,16 @@
             "href" : "https://www.coursera.org/learn/html/lecture/d6Pha/03-01-accessibility"
         },
         {
+            "title" : "Document: Does Your Browser Support Assessibility?",
+            "href" : "pages/html5/12_assessibility.php"
+        },
+        {
             "title" : "Video: Validating Your Site",
             "href" : "https://www.coursera.org/learn/html/lecture/5HnFB/03-02-validating-your-site"
         },
         {
             "title" : "Document: Putting Your Code Out on the Web",
-            "href" : "pages/html5/08_web.php"
+            "href" : "pages/html5/13_web.php"
         },
         {
             "title" : "Video: Hosting Your Site",
@@ -164,7 +176,7 @@
         },
         {
             "title" : "Document: Final Project Description",
-            "href" : "pages/html5/09_project.php"
+            "href" : "pages/html5/14_project.php"
         },
         {
             "title" : "Video: Final Project Demo",
@@ -172,11 +184,11 @@
         },
         {
             "title" : "Document: The Final Exam has changed",
-            "href" : "pages/html5/10_exam.php"
+            "href" : "pages/html5/15_exam.php"
         },
         {
             "title" : "Document: Congratulations!",
-            "href" : "pages/html5/11_congratulations.php"
+            "href" : "pages/html5/16_congratulations.php"
         },
         {
             "title" : "Video: Closing",
@@ -184,11 +196,7 @@
         },
         {
             "title" : "Document: Congratulations!",
-            "href" : "pages/html5/12_more.php"
-        },
-        {
-            "title" : "Document: Congratulations!",
-            "href" : "pages/html5/13_survey.php"
+            "href" : "pages/html5/17_more.php"
         }
     ],
     "lti" : [

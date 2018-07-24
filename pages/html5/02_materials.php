@@ -12,13 +12,12 @@ li { padding: 5px; }
   <b style = "float:right">www.wd4e.com</b>
   </div>
   <h1>Required Materials</h1>
-  <p><b>Textbook</b>: <a href="http://textbooks.opensuny.org/the-missing-link-an-introduction-to-web-development-and-programming/">The Missing Link: An Introduction to Web Development and Programming</a> by Michael Mendez from <a href "www.opensuny.org">www.opensuny.org</a>. The book is available for free (CC-BY-NC) in PDF, EPUB and Apple iBooks forms. It is also available in print on Amazon. I do my best to direct you to chapters that most closely follow what I will be covering in each video lecture.</p>
+  <p><b>Textbook:</b></p>
+  <p>It is really difficult to find a textbook that focuses on just the basics. In the past I used a textbook that covered too many "extras." The new version of this course (and the entire specialization) will be using an online resource from Shay Howe. The link is <a href="https://learn.shayhowe.com/html-css/">https://learn.shayhowe.com/html-css/</a>. You can also purchase a paper copy of the book if you prefer, but everything you need is free and online.</p>
   <br>
-  <p>Week One -- <i>Read before quiz</i></p>
-  <li>Chapters 1, 4, 7, and 8</li>
-  <p>Week Two -- <i>Read before quiz</i></p>
-  <li>Chapters 7, 9, 10, 11, 13, 16, 18</li>
+  <p>This book isn't perfect - it covers more than I would like to cover but it is a really good start. I do my best to direct you to sections that most closely follow what I will be covering in each video lecture.</p>
   <br>
-  <p><b>Software</b>: The <b>preferred</b>way to code in this class is editor software (Notepad, TextWrangler, Sublime, etc). If you do not have the ability to access or install this type of software, there is an online editor at: <a href "http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro">http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro</a>.
+  <p><b>Software:</b></p>
+  <p>The <b>preferred</b>way to code in this class is editor software (Notepad, TextWrangler, Sublime, etc). If you do not have the ability to access or install this type of software, there is an online editor at: <a href "http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro">http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro</a>.</p>
 </body>
 </html>
