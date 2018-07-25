@@ -87,6 +87,10 @@
     "slides": "lectures/02_html5.zip",
     "references" : [
         {
+            "title" : "Video: The Document Object Model [DOM]",
+            "href" : "https://www.coursera.org/learn/html/lecture/BCsCq/02-01-the-document-object-model-dom"
+        },
+        {
             "title" : "Document: Readings",
             "href" : "pages/html5/08_w2readings.php"
         },
