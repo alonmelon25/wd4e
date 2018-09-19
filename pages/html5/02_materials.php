@@ -18,6 +18,6 @@ li { padding: 5px; }
   <p>This book isn't perfect - it covers more than I would like to cover but it is a really good start. I do my best to direct you to sections that most closely follow what I will be covering in each video lecture.</p>
   <br>
   <p><b>Software:</b></p>
-  <p>The <b>preferred</b>way to code in this class is editor software (Notepad, TextWrangler, Sublime, etc). If you do not have the ability to access or install this type of software, there is an online editor at: <a href "http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro">http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro</a>.</p>
+  <p>The <b>preferred</b> way to code in this class is editor software (Notepad, TextWrangler, Sublime, etc). If you do not have the ability to access or install this type of software, there is an online editor at: <a href "http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro">http://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro</a>.</p>
 </body>
 </html>

@@ -69,19 +69,18 @@ If you are interested in collaborating
 to build these kinds of sites for yourself, please see the
 <a href="http://www.tsugi.org" target="_blank">tsugi.org</a> website.
 </p>
-<h3>TextBook</h3>
+<h3>Textbook</h3>
 <p>
 I am using an open textbook
-<a href="http://textbooks.opensuny.org/the-missing-link-an-introduction-to-web-development-and-programming/"
+<a href="https://learn.shayhowe.com/html-css/"
 target="_new">
-The Missing Link: An Introduction to Web Development and Programming
+Learn to Code HTML & CSS
 </a>
-written by Michael Mendez
-and published by
-<a href="http://textbooks.opensuny.org/" target="_blank">OpenSUNY</a>.  All of the electronic copies
-of the book are free.   Print copies of the book are available on
-<a href="http://www.amazon.com/The-Missing-Link-Introduction-Development/dp/1502447967/"
-target="_blank">Amazon</a>.
+by Shay Howe.
+All of the electronic copies
+of the book are free. Print copies of the book are available on
+<a href="https://www.informit.com/store/learn-to-code-html-and-css-develop-and-style-websites-9780321940520?ranMID=24808"
+target="_blank">Pearson</a>.
 </p>
 <h3>Copyright</h3>
 <p>
