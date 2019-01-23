@@ -159,6 +159,10 @@
             "href" : "pages/html5/11_alternative.php"
         },
         {
+            "title" : "Video: Font Awesome Demo",
+            "href" : "https://www.coursera.org/learn/html/lecture/m4NI3/font-awesome-demo"
+        },
+        {
             "title" : "Video: Hyperlinks",
             "href" : "https://www.coursera.org/learn/html/lecture/7Wvrg/02-06-hyperlinks"
         },
@@ -223,6 +227,14 @@
             "href" : "https://www.coursera.org/learn/html/lecture/5HnFB/03-02-validating-your-site"
         },
         {
+            "title" : "Video: Wave",
+            "href" : "https://www.coursera.org/learn/html/lecture/WqvSN/03-02a-wave"
+        },
+        {
+            "title" : "Video: Funkify",
+            "href" : "https://www.coursera.org/learn/html/lecture/afqDD/03-02b-funkify"
+        },
+        {
             "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: Validating Your Site",
             "href" : "lectures/03_html5/03_02-validating.pdf"
         },
@@ -245,6 +257,14 @@
         {
             "title" : "<img src='https://img.icons8.com/metro/50/000000/pdf.png' alt='pdf icon' width='1.5%'> Slides: cPanel",
             "href" : "lectures/03_html5/03_04-cPanel.pdf"
+        },
+        {
+            "title" : "Video: Creating a GitHub Pages Account",
+            "href" : "https://www.coursera.org/learn/html/lecture/COiCQ/3-04a-creating-a-github-pages-account"
+        },
+        {
+            "title" : "Video: Uploading to GitHub Pages Account",
+            "href" : "https://www.coursera.org/learn/html/lecture/4dOi4/3-04b-uploading-to-github-pages-account"
         },
         {
             "title" : "Video: Using Secure File Transfer Protocol",
