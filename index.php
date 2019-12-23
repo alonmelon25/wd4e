@@ -48,14 +48,13 @@ an IMS Learning Tools Interoperability® (LTI®)
 </ul>
 <?php } else { ?>
 <p>
-Hello and welcome to my site where you can learn to build database-backed
-web sites using PHP, MySQL, JQuery, and Handlebars.
+Hello and welcome to my site where you can work through modules and learn to write syntactically correct HTML5 and CSS3, and how to create interactive web experiences with JavaScript. Mastering this range of technologies will allow you to develop high quality web sites that, work seamlessly on mobile, tablet, and large screen browsers accessible.
+<br>
 You can use this web site many different ways:
 <ul>
 <li>
-You browse my videos and course materials under <a href="lessons">Lessons</a>.  The materials
-I have developed
-for this class are all provided with a Creative Commons license so you can download or link to
+You browse my videos and course materials under <a href="lessons">Lessons</a>. The materials
+I have developed for this class are all provided with a Creative Commons license so you can download or link to
 them to incorporate them into your own teaching if you like.</li>
 We take your privacy seriously on this site, you can review our
 <a href="privacy">Privacy Policy</a> for more details.
