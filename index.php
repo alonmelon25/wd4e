@@ -4,7 +4,7 @@ use \Tsugi\Core\LTIX;
 use \Tsugi\UI\Output;
 
 // Help the installer through the setup process
-require "check.php" ;
+require "check.php";
 
 require "top.php";
 require "nav.php";
